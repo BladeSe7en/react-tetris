@@ -4,3 +4,8 @@
     color: lightgray;
     font-family: Pixel;
 }
+@media only screen and (max-width: 600px) {
+   .sass {
+       display: none;
+   }
+  }
